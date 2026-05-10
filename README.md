@@ -1,4 +1,6 @@
+A basic HTML site, showcasing some of my favorite foods.
 
+I linked pages between each other, added images and simple recipes.
 
 Credits:
 Baked Potato Image from Will Ma
